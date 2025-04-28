@@ -2,7 +2,7 @@
 
 Este repositório contém a implementação de partes de um compilador, considerando a **análise léxica**, **análise sintática** e **construção da tabela de símbolos**.
 
-A implementação foi realizada utilizando a linguagem **Java**.
+☕A implementação foi realizada utilizando a linguagem **Java**.
 
 ## ⚙️ Funcionalidades
 - 🔤 Análise **léxica**
