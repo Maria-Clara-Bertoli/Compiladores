@@ -1,4 +1,4 @@
-# 📚⚙️ Implementação de Partes de um Compilador em Java
+# 📚⚙️ Implementação de um Compilador em Java
 
 Este repositório contém a implementação de partes de um compilador, considerando a **análise léxica**, **análise sintática** e **construção da tabela de símbolos**.
 
