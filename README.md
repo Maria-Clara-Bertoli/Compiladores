@@ -5,9 +5,9 @@ Este repositório contém a implementação de partes de um compilador, consider
 A implementação foi realizada utilizando a linguagem **Java**.
 
 ## ⚙️ Funcionalidades
-- 🔤 Análise **léxica** de códigos-fonte
-- 📖 Análise **sintática** para validação da estrutura
-- 🗂️ Construção e gerenciamento da **tabela de símbolos**
+- 🔤 Análise **léxica**
+- 📖 Análise **sintática**
+- 🗂️ Construção da **tabela de símbolos**
 
 ## 🛠️ Tecnologias Utilizadas
 - Java ☕
